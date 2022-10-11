@@ -1,2 +1,2 @@
 # Language-Translator
-Translating English to Spanish Language.
+Translating English to Spanish Language using Transformers model.
